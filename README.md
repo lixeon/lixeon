@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <a href="https://profile-summary-for-github.com/user/lixeon"><img src="https://img.shields.io/github/followers/d4az?label=d4az&style=social" alt="Git-Hub"></a>
-    <a href="https://twitter.com/lix3on"><img src="https://img.shields.io/twitter/follow/dasith_vidanage?label=dasith%20Vidanage&style=social"     alt="Twitter"></a>
+    <a href="https://profile-summary-for-github.com/user/lixeon"><img src="https://img.shields.io/github/followers/lixeon?label=lixeon&style=social" alt="Git-Hub"></a>
+    <a href="https://twitter.com/lix3on"><img src="https://img.shields.io/twitter/follow/lix3on?label=lix3on&style=social"     alt="Twitter"></a>
 
 </p>
 
