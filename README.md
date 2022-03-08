@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 </p>
 
-More info on <a href="https://lixeon.com">lixeon.com</a>
+More info on HomePage: <a href="https://lixeon.com">lixeon.com</a>
